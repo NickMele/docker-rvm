@@ -1,6 +1,6 @@
 # Use the trusty ubuntu as our base image
 FROM ubuntu:trusty
-MAINTAINER Nick Mele <nick@riversagile.com>
+MAINTAINER Nick Mele <nickmele26@gmail.com>
 
 # Update packages and install tools
 RUN apt-get update && apt-get install -y \
